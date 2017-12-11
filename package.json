@@ -7,20 +7,12 @@
     "test": "mocha test/index",
     "start": "node index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/allourapps/node-express-server.git"
-  },
   "keywords": [
     "node",
     "express"
   ],
   "author": "Eduard Simonyan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/allourapps/node-express-server/issues"
-  },
-  "homepage": "https://github.com/allourapps/node-express-server#readme",
   "devDependencies": {
     "eslint": "4.12.1",
     "eslint-config-google": "0.9.1",
